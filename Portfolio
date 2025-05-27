@@ -1,15 +1,16 @@
 <!DOCTYPE html>
 <html lang="fr">
 <head>
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-8RPEDHRL4F"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-8RPEDHRL4F"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
 
-  gtag('config', 'G-8RPEDHRL4F');
-</script>
+    gtag('config', 'G-8RPEDHRL4F');
+  </script>
+
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Kevin Kwete - Portfolio Cybersécurité</title>
@@ -83,15 +84,6 @@
     }
   </style>
 </head>
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-8RPEDHRL4F"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-8RPEDHRL4F');
-</script>
 <body>
   <header>
     <h1>Kevin Kwete</h1>
@@ -118,18 +110,16 @@
 
     <div class="card">
       <h2>Certificats</h2>
-      <div class="certificates">
-          <ul>
-        <li>Google cybersécurité </li>
-        <li>IBM building IA</li>
+      <ul>
+        <li>Google cybersécurité</li>
+        <li>IBM building AI</li>
       </ul>
-      </div>
     </div>
 
     <div class="card">
       <h2>Projets</h2>
       <p>Explorez mes projets sur GitHub :</p>
-      <p><a href="https://github.com/" target="_blank">Voir mon GitHub</a></p>
+      <p><a href="https://github.com/Keans65" target="_blank">Voir mon GitHub</a></p>
     </div>
 
     <div class="card">
